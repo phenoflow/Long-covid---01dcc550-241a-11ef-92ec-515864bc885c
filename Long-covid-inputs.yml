@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/exclude-covid19-result---tadds.py
+inputModule2:
+  class: File
+  path: python/exclude-positive-covid19---tadds.py
+inputModule3:
+  class: File
+  path: python/exclude-covid19-exposure---tadds.py
+inputModule4:
+  class: File
+  path: python/exclude-covid19-suspected---tadds.py
+inputModule5:
+  class: File
+  path: python/exclude-covid19-confirmed---tadds.py
+inputModule6:
+  class: File
+  path: python/exclude-covid19-coronavirus---tadds.py
+inputModule7:
+  class: File
+  path: python/exclude-covid19---tadds.py
+inputModule8:
+  class: File
+  path: python/long-covid---tadds.py
+inputModule9:
+  class: File
+  path: python/long-covid-assessment---tadds.py
+inputModule10:
+  class: File
+  path: python/output-long-covid-without-a-record-of-covid19-cases.py
